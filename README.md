@@ -1,4 +1,4 @@
-# Tubes_STD_Kelompok-10_Reseller.in
+# Tugas_Besar_STD_Kelompok_J_Reseller.in
 # Pengadaan produk (Reseller.in)
 
 ## Deskripsi
