@@ -19,7 +19,7 @@ Aplikasi pengelolaan pengadaan produk mencatat reseller dan pemasok yang menjali
 ## Arsitektur
 Arsitektur pada topik tugas besar ini menggunakan multi linked list tipe-02 dan binary search tree
 1. Multi Linked List Tipe-02
-![Images](https://drive.google.com/file/d/1KT4lK_d49UHvUjLUb8TVQqfn-MQkWgBj/view?usp=sharing)
+![Images](https://drive.google.com/uc?export=view&id=1KT4lK_d49UHvUjLUb8TVQqfn-MQkWgBj)
 
 2. Binary Search Tree
 ![Images](https://drive.google.com/uc?id=19yMrDmMPRJfd43G9AkvapAyENrzCLZND)
@@ -82,7 +82,7 @@ Fungsionalitas / studi kasus bonus yang dipilih dari topik ini adalah
 │   │   │
 │   │   └───implementation
 │   │           nilaiBST_[103012500113_anggota_1].cpp
-│   │           nilaiBST_[103012500113_angggota_2].cpp
+│   │           nilaiBST_[103012500008_angggota_2].cpp
 │   │
 │   ├───Khusus
 │   │   ├───header
@@ -100,15 +100,15 @@ Fungsionalitas / studi kasus bonus yang dipilih dari topik ini adalah
 │       └───implementation
 │           ├───Reseller
 │           │       Reseller_[103012500113_anggota_1].cpp
-│           │       Reseller_[103012500113_angggota_2].cpp
+│           │       Reseller_[103012500008_angggota_2].cpp
 │           │
 │           ├───KerjaSamaPemasokan
 │           │       KerjaSamaPemasokan_[103012500113_anggota_1].cpp
-│           │       KerjaSamaPemasokan_[103012500113_angggota_2].cpp
+│           │       KerjaSamaPemasokan_[103012500008_angggota_2].cpp
 │           │
 │           └───Pemasok
 │                   Pemasok_[103012500113_anggota_1].cpp
-│                   Pemasok_[103012500113_angggota_2].cpp
+│                   Pemasok_[103012500008_angggota_2].cpp
 ├── README.md
 └── .gitignore
 ```
