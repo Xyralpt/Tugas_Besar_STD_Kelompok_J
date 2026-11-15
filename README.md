@@ -16,16 +16,6 @@ Aplikasi pengelolaan pengadaan produk mencatat reseller dan pemasok yang menjali
 
 ---
 
-## Arsitektur
-Arsitektur pada topik tugas besar ini menggunakan multi linked list tipe-02 dan binary search tree
-1. Multi Linked List Tipe-02
-![Images](https://drive.google.com/uc?export=view&id=1KT4lK_d49UHvUjLUb8TVQqfn-MQkWgBj)
-
-2. Binary Search Tree
-![Images](https://drive.google.com/uc?id=19yMrDmMPRJfd43G9AkvapAyENrzCLZND)
-
----
-
 ## Fitur / Fungsional Program
 ### Fungsional Umum
 Fungsionalitas yang harus terpenuhi untuk **Multi-Linked list** adalah 
