@@ -81,7 +81,7 @@ Fungsionalitas / studi kasus bonus yang dipilih dari topik ini adalah
 │   │   └───implementation
 │   │           khusus.cpp
 │   │
-│   └───MLL-01
+│   └───MLL-02
 │       ├───header
 │       │       Reseller.h
 │       │       KerjaSamaPemasokan.h
